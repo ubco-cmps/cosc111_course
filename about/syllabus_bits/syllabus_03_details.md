@@ -59,9 +59,7 @@ If students do not satisfy the appropriate requirements, the student will be ass
 1. Quisque vel odio dui. Aenean ullamcorper arcu sit amet gravida dapibus.
 
 ```{tip}
-The full course schedule is available here: {ref}`page_Course_Schedule`
-
-and [here](./course_schedule.md)
+The {ref}`page_Course_Schedule` is available here.
 ```
 ### What do I need to purchase for this course?
 
