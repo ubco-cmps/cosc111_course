@@ -5,21 +5,99 @@ Course Schedule
 This is the tentative plan for {{ COURSE_CODE }} this term.
 Things may change depending on many factors so this is subject to change.
 
-Course schedule coming soon...
-<!-- 
+| Wk | Date   | Topic                          | Activity | Lab    | Logs  | Test / Bonus Test        |
+|----|--------|--------------------------------|----------|--------|-------|--------------------------|
+| 0  | Jan 11 | About this course              | --       | --     | --    | --                       |
+| 1  | Jan 18 | Git, GitHub, and the Terminal  | A1       | Lab 1  | LL 1  | Test 0 (course policies) |
+| 2  | Jan 25 | Java                           | A2       | Lab 2  | LL 2  | Test 1 (weeks 0-2)       |
+| 3  | Feb 1  | Variables and Math             | A3       | Lab 3  | LL 3  | Bonus Test 1             |
+| 4  | Feb 8  | Conditionals                   | A4       | Lab 4  | LL 4  | Test 2 (weeks 3-4)       |
+| 5  | Feb 15 | Reading Week (no new material) | --       | --     | --    | --                       |
+| 6  | Feb 22 | Loops                          | A6       | Lab 6  | LL 6  | Bonus Test 2             |
+| 7  | Mar 1  | Lists and Arrays               | A7       | Lab 7  | LL 7  | Test 3 (weeks 6-7)       |
+| 8  | Mar 8  | Object Oriented Programming I  | A8       | Lab 8  | LL 8  | Bonus Test 3             |
+| 9  | Mar 15 | Object Oriented Programming II | A9       | Lab 9  | LL 9  | Test 4 (weeks 8-9)       |
+| 10 | Mar 22 | Methods and Constructors       | A10      | Lab 10 | LL 10 | Bonus Test 4             |
+| 11 | Mar 29 | Objects and Variables          | --       | --     | LL 11 | Test 5 (weeks 3-10)      |
+| 12 | Apr 5  | Recap and Review               | --       | --     | LL 12 | Bonus Test 5             |
 
-| Wk | Date | Topic                                         | Homework   | Lab   | Logs | Test / Bonus Test              |
-|----|----------|-----------------------------------------------|------------|-------|--------------|--------------------------------|
-| 0  | Jan 11   | About this course                             | Diagnostic | Lab X | LL X         | Test 0: Course policies        |
-| 1  | Jan 18   | Chapter 2: Kinematics in 1 D                  | HW X       | Lab X | LL X         | Diagnostic (Pre)               |
-| 2  | Jan 25   | Chapter 3: Vectors and Coordinate Systems     | HW X       | Lab X | LL X         | Test 1: Chapters 2 & 3         |
-| 3  | Feb 1    | Chapter 4: Kinematics in 2D                   | HW X       | Lab X | LL X         | Bonus Test 1                   |
-| 4  | Feb 8    | Chapter 5: Force and Motion                   | HW X       | Lab X | LL X         | Test 2: Chapters 4 & 5         |
-| 5  | Feb 15   | Reading Week (no new material)                | -          | -     | -            | -                              |
-| 6  | Feb 22   | Chapter 6: Dynamics I: Motion along a line    | HW X       | Lab X | LL X         | Bonus Test 2                   |
-| 7  | Mar 1    | Chapter 7: Newton's third law                 | HW X       | Lab X | LL X         | Test 3: Chapters 6 & 7         |
-| 8  | Mar 8    | Chapter 8: Dynamics II: Motion in a Plane     | HW X       | Lab X | LL X         | Bonus Test 3                   |
-| 9  | Mar 15   | Chapter 9: Work and Kinetic Energy            | HW X       | Lab X | LL X         | Test 4: Chapters 8 & 9         |
-| 10 | Mar 22   | Chapter 10: Interactions and Potential Energy | HW X       | Lab X | LL X         | Bonus Test 4                   |
-| 11 | Mar 29   | Chapter 11: Impulse and momentum              | HW X       | Lab X | LL X         | Test 5: Chapters 10 & 11       |
-| 12 | Apr 5    | Review and recap                              | Practice   | Lab X | LL X         | Diagnostic (Post) Bonus Test 5 | -->
+
+<!--
+Part 1 - 1. Getting started with programming
+Part 1 - 2. Printing
+Part 1 - 3. Reading Input 
+Part 1 - 4. Variables
+Part 1 - 5. Calculating with numbers
+Part 1 - 6. Conditional statement and conditional operation
+Part 2 - 1. Recurring problems and patterns to solve them
+Part 2 - 2. Repeating functionality
+Part 2 - 3. More loops
+Part 2 - 4. Methods and dividing the program into smaller parts
+Part 3 - 1. Discovering errors
+Part 3 - 2. Lists
+Part 3 - 3. Arrays
+Part 3 - 4. Using strings
+Part 4 - 1. Introduction to object-oriented programming
+Part 4 - 2. Objects in a list
+Part 4 - 3. Files and reading data
+Part 5 - 1. Learning object-oriented programming
+Part 5 - 2. Removing repetitive code (overloading methods and constructors)
+Part 5 - 3. Primitive and reference variables
+Part 5 - 4. Objects and references
+
+
+
+Week 0
+    - About this course
+
+Week 1 - Version Control
+    - Git and GitHub
+    - Terminal
+
+Week 2 - Java
+    - Getting started with programming
+    - Printing
+    - Reading Input
+
+*** test1
+Week 3 - Variables and Math
+    - Variables
+    - Calculating with numbers
+*** bonus test1
+
+Week 4 - Conditionals
+    - Conditional statement and conditional operation
+*** test 2
+Week 5 - reading break
+
+Week 6 - Loops
+    - Recurring problems and patterns to solve them
+    - Repeating functionality
+    - More loops
+    - Methods and dividing the program into smaller parts
+*** bonus test 2
+Week 7 - Lists and Arrays
+    - Discovering errors
+    - Lists
+    - Arrays
+    - Using strings
+*** test 3
+Week 8 - Object Oriented Programming
+    - Introduction to object-oriented programming
+    - Objects in a list
+*** bonus test 3
+Week 9 - Objects Oriented Programming II
+    - Learning object-oriented programming
+    - Files and reading data
+*** test 4
+Week 10 - Methods and Constructors
+    - Removing repetitive code (overloading methods and constructors)
+*** bonus test 4
+Week 11 - Objects and Variables
+    - Primitive and reference variables
+    - Objects and references
+*** test 5
+Week 12
+    - Recap and Review
+*** bonus test 5
+-->

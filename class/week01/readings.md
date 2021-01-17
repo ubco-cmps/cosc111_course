@@ -33,3 +33,4 @@ These readings are recommended if you would like to explore the topic further an
 <label><input type="checkbox" id="week01_reading10" class="box"> **[Collaborating in GitHub](https://swcarpentry.github.io/git-novice/08-collab/index.html)** </input></label
 
 <label><input type="checkbox" id="week01_reading11" class="box"> **[Conflicts](https://swcarpentry.github.io/git-novice/09-conflict/index.html)** </input></label
+

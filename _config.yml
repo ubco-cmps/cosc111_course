@@ -74,3 +74,5 @@ sphinx:
       ANALYTICS_OPTOUT: "[complete this form](https://ubc.ca1.qualtrics.com/jfe/form/SV_4SB8DCF8fnktkLb)"
 parse:
   myst_extended_syntax: true
+
+  

@@ -39,16 +39,22 @@ Number one reason thing to take away from this is...
 
 The grading scheme for this course is here:
 
-| Item                  | Weight          | Due date(s) |
-|-----------------------|-----------------|-------------|
-| Homework Assignments  | 25% (10 x 2.5%) | TBD         |
-| Labs                  | 25% (10 x 2.5%) | TBD         |
-| Tests (& Bonus Tests) | 25% (5 x 5%)    | TBD         |
-| Learning Logs         | 5% (10 x 0.5%)  | TBD         |
-| Final Exam            | 20%             | TBD         |
+| Item                  | Weight          | Due date(s)                | Notes                                  |
+|-----------------------|-----------------|----------------------------|----------------------------------------|
+| Labs                  | 25% (10 x 2.5%) | Wednesdays at 6 PM         | Wed Jan 27 at 6 PM                     |
+| Activities            | 25% (10 x 2.5%) | Thursdays at 6 PM          | Thurs Jan 21 at 6 PM                   |
+| Tests (& Bonus Tests) | 25% (5 x 5%)    | Fridays 6 PM - Sunday 6 PM | Test 0 window opens Fri Jan 22 at 6 PM |
+| Learning Logs         | 5% (10 x 0.5%)  | Fridays at 6 PM            | Fri Jan 22 at 6 PM                     |
+| Final Exam            | 20%             | TBD                        | N/A                                    |
+
+```{warning}
+Remember, there is NO grace period for the Tests. You have a 48 hour window to complete the test, but if you miss the window, your only option is to wait for the bonus test the following week.
+```
 
 There will be 5 tests in this course in an (approximately) bi-weekly schedule.
 For each of the tests, there will be a bonus test exactly one week later and the better score of the Test-Bonus Test pair will be taken.
+
+There will be 12 learning logs to be submitted, and I will count 10 of them for grades.
 
 ```{attention} 
 All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.

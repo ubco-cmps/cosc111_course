@@ -27,6 +27,7 @@ We will do our best to follow the syllabus, but in case things go south, I will 
 
 Any major changes to the syllabus (this page) will be documented here, as well as the date the change was made. 
 
-| Change Date | Summary | Rationale |
-|-------------|---------|-----------|
-| TBD         | TBD     | TBD       |
+| Change Date      | Summary                                                                      | Rationale |
+|------------------|------------------------------------------------------------------------------|-----------|
+| January 14, 2021 | Added Course schedule and clarified that 10/12 learning logs will be marked. | N/A       |
+| January 14, 2021 | Clarified first deadlines of the course                                      | N/A       |
