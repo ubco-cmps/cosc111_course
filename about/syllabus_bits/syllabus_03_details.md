@@ -39,7 +39,7 @@ Number one reason thing to take away from this is...
 
 The grading scheme for this course is here:
 
-| Item                  | Weight          | Due date(s)                | Notes                                  |
+| Item                  | Weight          | Due date(s)                | First Due Date                                  |
 |-----------------------|-----------------|----------------------------|----------------------------------------|
 | Labs                  | 25% (10 x 2.5%) | Wednesdays at 6 PM         | Wed Jan 27 at 6 PM                     |
 | Activities            | 25% (10 x 2.5%) | Thursdays at 6 PM          | Thurs Jan 21 at 6 PM                   |
