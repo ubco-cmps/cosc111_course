@@ -24,11 +24,11 @@ To install the the Java SE JDK,
 
 There are several things you need to install on your machines for this course.
 
-- On macOS, follow the instructions [here](https://firas.moosvi.com/courses/cosc123/class/week01/macOS.html).
+- On macOS, follow the instructions [here](https://firas.moosvi.com/courses/cosc111/class/week01/macOS.html).
 
-- On Windows, follow the instructions [here](https://firas.moosvi.com/courses/cosc123/class/week01/windows.html).
+- On Windows, follow the instructions [here](https://firas.moosvi.com/courses/cosc111/class/week01/windows.html).
 
-- On Ubuntu, follow the instructions [here](https://firas.moosvi.com/courses/cosc123/class/week01/ubuntu.html).
+- On Ubuntu, follow the instructions [here](https://firas.moosvi.com/courses/cosc111/class/week01/ubuntu.html).
 
 Once you have gone through the installation instructions, please take a screenshot with the following requirements:
 
