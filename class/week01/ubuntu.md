@@ -124,7 +124,6 @@ There are extensions available to make almost any workflow or task you are inter
 To do this, search for and install the following extensions:
 
 - Java Extension Pack (0.12.1) by Microsoft
-- Processing Language (1.4.5) by Tobiah Zarlez
 - markdownlint (markdown linting and style checking extension)
 - GitLens - Git supercharged (powerful extension that extends VS Code's native git capabilities)
 - (Optional) Bracket Pair Colorizer 2 (add colour to help distinguish your brackets: (), [], {})
