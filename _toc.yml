@@ -151,11 +151,11 @@
 #   chapters:
 #     - file: class/final
 
-# - part: Lab Materials
-#   chapters:
-#     - file: class/labs
-#       title: Labs
-
+- part: Lab Materials
+  chapters:
+    - file: class/labs
+      title: Lab Stuff
+      
 - part: Course Feedback
   chapters:
     - file: about/feedback

@@ -4,7 +4,7 @@ To accept this lab on GitHub Classroom, please [click on this link](https://clas
 
 This lab has three tasks, they are all independent and you can do them in any order:
 
-- Task 1: Install the Processing programming development environment (PDE)
+- Task 1: Install Java SE Development Kit (JDK) 
 - Task 2: Go through the install instructions for your operating system (macOS, Windows, Linux)
 - Task 3: Complete the GitHub Tutorial.
 
