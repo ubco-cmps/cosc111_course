@@ -2,11 +2,13 @@
 
 ### Required Tools
 
-In this course, we will be using the following required learning technologies (privacy policies linked): 
+In this course, we will be using the following required learning technologies (privacy policies linked), and my best guess of how they make money: 
 
-- [Canvas](https://faculty.canvas.ubc.ca/canvas-privacy/)
-- [Ed Discussion](https://edstem.org/privacy)
-- [GitHub](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)
+| Tool          | Link to Privacy Policy                                                                                        | How are they making money?                                                                                                                                                                                                                                                      |
+|---------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Canvas        | [Privacy Policy](https://faculty.canvas.ubc.ca/canvas-privacy/)                                               | UBC pays for a campus-wide license                                                                                                                                                                                                                                              |
+| Ed Discussion | [Privacy Policy](https://edstem.org/privacy)                                                                  | Ed Discussion wants UBC to pay for a campus-wide license. At the moment, I am being offered beta access to drum up interest                                                                                                                                                     |
+| GitHub        | [Privacy Policy](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement) | GitHub provides free organization access to Schools and universities, but their direct monetization plans (from us) are currently unclear. Possibly they hope by getting us to use them now, when student get jobs in the future they'll pay for personal or business accounts? |
 
 <!-- - [Sli.do](https://www.sli.do/terms#privacy-policy)
 - [Mastering Physics](https://www.pearson.com/en-us/legal-information/privacy-policy.html) -->
