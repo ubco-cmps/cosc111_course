@@ -2,12 +2,12 @@
 
 ````{panels}
 
-This week's learning log assignment is now posted on Canvas.
+This week's learning log assignment will be posted on Canvas by Monday.
 
 ++++ 
 
-```{link-button} https://canvas.ubc.ca/courses/64277/quizzes/313993
-:text: Learning Log #1
+```{link-button} https://canvas.ubc.ca/courses/64277/quizzes/316256
+:text: Learning Log #2
 :type: url
 :classes: btn-outline-primary btn-block stretched-link text-dark
 ```
