@@ -1,4 +1,4 @@
-(page_labintro)=
+(page_activities)=
 Activities
 =======================
 
