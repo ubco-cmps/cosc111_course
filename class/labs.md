@@ -17,7 +17,7 @@ Once the deadline and the grace period has passed, you will no longer be able to
 | Lab        | Due Date                      | Link to Accept |
 |------------|-------------------------------|----------------|
 | [Lab 1](class/week01/lab.md)  | Wednesday Jan 27 at 18:00 PST | [Accept Lab](https://classroom.github.com/a/0Dk_zNST) |
-| [Lab 2]()  | Wednesday Jan XX at 18:00 PST | [Accept Lab]() |
+| [Lab 2]()  | Wednesday Feb 3 at 18:00 PST | [Accept Lab](https://classroom.github.com/a/7iNpD7Yo) |
 | [Lab 3]()  | Wednesday Jan XX at 18:00 PST | [Accept Lab]() |
 | [Lab 4]()  | Wednesday Feb XX at 18:00 PST | [Accept Lab]() |
 | [Lab 5]()  | Wednesday Feb XX at 18:00 PST | [Accept Lab]() |
