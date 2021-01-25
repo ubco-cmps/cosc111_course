@@ -140,7 +140,7 @@ tree > mydungeonmap
 ```
 
 The first command will generate a hierarchy of all files and folders in your lab2 directory. 
-The second command will put the results of `tree` into `mydungeonmap.md` to create your explored dungeon map!
+The second command will put the results of `tree` into `mydungeonmap` to create your explored dungeon map!
 
 ### What to do if `tree` isn't installed on your machine? 
 
