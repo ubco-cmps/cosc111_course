@@ -30,6 +30,7 @@
       title: Week 2 - Java
       sections:
         - file: class/week02/readings
+        - file: book/part-1/test
         - file: class/week02/videos
         - file: class/week02/homework
         - file: class/week02/lecture
