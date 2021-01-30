@@ -30,30 +30,25 @@
       title: Week 2 - Java
       sections:
         - file: class/week02/readings
-        - file: book/part-1/test
         - file: class/week02/videos
-        - file: class/week02/homework
         - file: class/week02/lecture
         - file: class/week02/test
         - file: class/week02/lab
         - file: class/week02/learninglog
-
-#     - file: class/week03/week03_summary
-#       title: Week 3 - Chapter 3
-#       sections:
-#         - file: class/week03/readings
-#         - file: class/week03/videos
-#         - file: class/week03/homework
-#         - file: class/week03/lecture
-#         - file: class/week03/test
-#         - file: class/week03/lab
-#         - file: class/week03/learninglogs
+    - file: class/week03/week03_summary
+      title: Week 3 - Variables and Math
+      sections:
+        - file: class/week03/readings
+        - file: class/week03/videos
+        - file: class/week03/lecture
+        - file: class/week03/test
+        - file: class/week03/lab
+        - file: class/week03/learninglog
 #     - file: class/week04/week04_summary
 #       title: Week 4 - Chapter 4
 #       sections:
 #         - file: class/week04/readings
 #         - file: class/week04/videos
-#         - file: class/week04/homework
 #         - file: class/week04/lecture
 #         - file: class/week04/test
 #         - file: class/week04/lab
@@ -66,7 +61,6 @@
 #       sections:
 #         - file: class/week05/readings
 #         - file: class/week05/videos
-#         - file: class/week05/homework
 #         - file: class/week05/lecture
 #         - file: class/week05/test
 #         - file: class/week05/lab
@@ -78,7 +72,6 @@
 #       sections:
 #         - file: class/week07/readings
 #         - file: class/week07/videos
-#         - file: class/week07/homework
 #         - file: class/week07/lecture
 #         - file: class/week07/test
 #         - file: class/week07/lab
@@ -88,7 +81,6 @@
 #       sections:
 #         - file: class/week08/readings
 #         - file: class/week08/videos
-#         - file: class/week08/homework
 #         - file: class/week08/lecture
 #         - file: class/week08/test
 #         - file: class/week08/lab
@@ -98,7 +90,6 @@
 #       sections:
 #         - file: class/week09/readings
 #         - file: class/week09/videos
-#         - file: class/week09/homework
 #         - file: class/week09/lecture
 #         - file: class/week09/test
 #         - file: class/week09/lab
@@ -110,7 +101,6 @@
 #       sections:
 #         - file: class/week10/readings
 #         - file: class/week10/videos
-#         - file: class/week10/homework
 #         - file: class/week10/lecture
 #         - file: class/week10/test
 #         - file: class/week10/lab
@@ -120,7 +110,6 @@
 #       sections:
 #         - file: class/week11/readings
 #         - file: class/week11/videos
-#         - file: class/week11/homework
 #         - file: class/week11/lecture
 #         - file: class/week11/test
 #         - file: class/week11/lab
@@ -130,7 +119,6 @@
 #       sections:
 #         - file: class/week12/readings
 #         - file: class/week12/videos
-#         - file: class/week12/homework
 #         - file: class/week12/lecture
 #         - file: class/week12/test
 #         - file: class/week12/lab
@@ -142,7 +130,6 @@
 #       sections:
 #         - file: class/week13/readings
 #         - file: class/week13/videos
-#         - file: class/week13/homework
 #         - file: class/week13/lecture
 #         - file: class/week13/test
 #         - file: class/week13/lab

@@ -8,103 +8,122 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```{admonition} Checklist of items
 :class: tip
 
-<input type="checkbox" id="week11_video1" class="box"><label>Video 1</input></label>
+<input type="checkbox" id="week02_video1" class="box"><label>2.1: Introduction</input></label>
 
-<input type="checkbox" id="week11_video2" class="box"><label>Video 2</input></label>
+<input type="checkbox" id="week02_video2" class="box"><label>2.2: What is Programming?</input></label>
 
-<input type="checkbox" id="week11_video3" class="box"><label>Video 3</input></label>
+<input type="checkbox" id="week02_video3" class="box"><label>2.3: How do we write code?</input></label>
 
-<input type="checkbox" id="week11_video4" class="box"><label>Video 4</input></label>
+<input type="checkbox" id="week02_video4" class="box"><label>2.4: How do we get information from computers?</input></label>
 
-<input type="checkbox" id="week11_video5" class="box"><label>Video 5</input></label>
+<input type="checkbox" id="week02_video5" class="box"><label>2.5: What can computers do?</input></label>
 
-<input type="checkbox" id="week11_video6" class="box"><label>Video 6</input></label>
+<input type="checkbox" id="week02_video6" class="box"><label>2.6: Writing Java with an IDE</input></label>
 
-<input type="checkbox" id="week11_video7" class="box"><label>Video 7</input></label>
+<input type="checkbox" id="week02_video7" class="box"><label>2.6: Bits, Bytes, and the Java Virtual Machine</input></label>
+
+<input type="checkbox" id="week02_video8" class="box"><label>2.7: A First Java Program</input></label>
+
+<input type="checkbox" id="week02_video9" class="box"><label>2.9: Java Programming Style</input></label>
+
+<input type="checkbox" id="week02_video10" class="box"><label>2.10: `print` vs. `println`</input></label>
 
 ```
 ````
 
 ## Required Videos
 
-```{dropdown} 1. Introduction to Gravitational Potential Energy with Zero Line Examples
+```{dropdown} 1.1: Introduction
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
     :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/TpAtVji1jgk" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=Xk-0f5GKc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0139_lecture_notes_-_introduction_to_gravitational_potential_energy_with_zero_line_examples.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/intro-peg.html)
 ```
 
-```{dropdown} 2. Introduction to Elastic Potential Energy with Examples
+```{dropdown} 1.2: What is Programming?
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/7ZnpsCV2GSY" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=Q18ME9ft9" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0140_lecture_notes_-_introduction_to_elastic_potential_energy.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/intro-pee.html)
 ```
 
-```{dropdown} 3. Introduction to Conservation of Mechanical Energy with Demonstrations
+```{dropdown} 1.3: How do we write code?
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/AnuLW0ZX7-Q" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=QkUa45MF5" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0141_lecture_notes_-_introduction_to_conservation_of_mechanical_energy.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/intro-coe.html)
 ```
 
-```{dropdown} 4. Introductory Conservation of Mechanical Energy Problem using a Trebuchet
+```{dropdown} 1.4: How do we get information from computers?
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/ZkNfvTp9skc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=71LDBqfY5" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0142_lecture_notes_-__introductory_conservation_of_mechanical_energy_problem.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/coe-problem.html)
 ```
 
-```{dropdown} 5. Conservation of Energy Problem with Friction, an Incline and a Spring by Billy
+```{dropdown} 1.5: What can computers do?
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/-K5d97U7FwQ" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=Q14fU5zY5" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Notes](https://www.flippingphysics.com/uploads/2/1/1/0/21103672/0143_lecture_notes_-_a_conservation_of_energy_problem_with_friction_an_incline_and_a_spring_by_billy.pdf)
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/coe-incline-problem.html)
 ```
 
-```{dropdown} 6. Stable, Unstable and Neutral Equilibrium
+```{dropdown} 1.6:  Writing Java with an IDE
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=XyZV7u9fFq" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 1.7: Bits, Bytes, and the Java Virtual Machine
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
     
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/4rG9u478X1Q" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=mJCc_czF9" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-- [Direct link to Mr. P's page](https://www.flippingphysics.com/stable-unstable-neutral-equilibrium.html)
 ```
 
-```{dropdown} 7. Introduction to the Conservative Force and it's Potential Energy with Example Problem
+```{dropdown} 1.7: A First Java Program
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.youtube-nocookie.com/embed/CGvQFu75L38" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=QJZZFqGKc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 ```
+
+```{dropdown} 1.8: Java Programming Style
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=XkmFFcGK9" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+```{dropdown} 1.10: print vs. println
+    :container: + shadow
+    :title: bg-primary text-white font-weight-bold
+
+<div class="container youtube">
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=XkG15qfFq" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+```
+
+## Optional Videos
+
+None this week.

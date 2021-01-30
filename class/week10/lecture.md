@@ -1,6 +1,5 @@
 # Lecture
 
-This week the lecture is CANCELLED due to the Remembrance Day Holiday.
+This will be updated with Monday's lecture slides.
 
-There will be an OPTIONAL makeup class on Monday or Tuesday the following week.
-It will be recorded.
+<iframe src="../../2020-11-26 - Lecture12.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
