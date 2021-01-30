@@ -2,8 +2,6 @@
 Week 2 Summary
 =======================
 
-Content coming soon, I've released this early so you can preview Lab 2
-
 ## About this page
 
 Each week, on the "Week X Summary" page, you will find a list of things you have to do this week, and the suggested order. 
