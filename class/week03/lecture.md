@@ -2,7 +2,7 @@
 
 This will be updated with Monday's lecture slides.
 
-<iframe src="../../2021-02-01 - Lecture3.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../../2021-02-01 - Lecture 3.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
 ## Lecture Activity 3 - Instructions
 
