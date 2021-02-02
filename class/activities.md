@@ -18,7 +18,7 @@ Once the deadline and the grace period has passed, you will no longer be able to
 |------------|-------------------------------|----------------|
 | [Activity 1](class/week01/lecture)  | Thursday Jan 28 at 18:00 PST (extended from Jan 20) | [Accept Activity](https://classroom.github.com/a/zTZ4u4_I) |
 | [Activity 2](class/week02/lecture)  | Thursday Jan 28 at 18:00 PST | [Accept Activity](https://classroom.github.com/a/5oeDK_1t) |
-| [Activity 3](class/week03/lecture)  | Thursday Jan XX at 18:00 PST | [Accept Activity]() |
+| [Activity 3](class/week03/lecture)  | Thursday Feb 4 at 18:00 PST | [Accept Activity](https://classroom.github.com/a/U48tqFHD) |
 | [Activity 4](class/week04/lecture)  | Thursday Feb XX at 18:00 PST | [Accept Activity]() |
 | [Activity 5](class/week05/lecture)  | Thursday Feb XX at 18:00 PST | [Accept Activity]() |
 | [Activity 6](class/week07/lecture)  | Thursday Feb XX at 18:00 PST | [Accept Activity]() |
