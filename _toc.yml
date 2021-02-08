@@ -45,7 +45,7 @@
         - file: class/week03/lab
         - file: class/week03/learninglog
     - file: class/week04/week04_summary
-      title: Week 4 - Chapter 4
+      title: Week 4 - Conditionals
       sections:
         - file: class/week04/readings
         - file: class/week04/videos
