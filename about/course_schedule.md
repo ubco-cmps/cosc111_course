@@ -15,7 +15,7 @@ Things may change depending on many factors so this is subject to change.
 | 5  | Feb 15 | Reading Week (no new material) | --               | --     | --    | --                       |
 | 6  | Feb 22 | Mid course review              | LA6              | Lab 6  | LL 6  | Bonus Test 2             |
 | 7  | Mar 1  | Loops                          | LA7              | Lab 7  | LL 7  | --                       |
-| 8  | Mar 8  | Lists and Arrays               | LA8              | Lab 8  | LL 8  | Test 3 (weeks 6-7)       |
+| 8  | Mar 8  | Lists and Arrays               | LA8              | Lab 8  | LL 8  | Test 3 (weeks 7-8)       |
 | 9  | Mar 15 | Object Oriented Programming I  | LA9              | Lab 9  | LL 9  | Bonus Test 3             |
 | 10 | Mar 22 | Object Oriented Programming II | LA10             | Lab 10 | LL 10 | Test 4 (weeks 9-10)      |
 | 11 | Mar 29 | Methods and Constructors       | LA11             | Lab 11 | LL 11 | Bonus Test 4             |

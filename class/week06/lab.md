@@ -1,5 +1,7 @@
 # Lab 6
 
+There was no Lab 5 because Week 5 was Reading Week.
+
 ## Expectations
 
 We are expecting you to commit your work often with useful commit messages.

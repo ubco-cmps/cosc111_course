@@ -67,15 +67,15 @@
         - file: class/week06/test
         - file: class/week06/lab
         - file: class/week06/learninglog
-    # - file: class/week07/week7_summary
-    #   title: Week 7 - Lists and Arrays
-    #   sections:
-    #     - file: class/week07/readings
-    #     - file: class/week07/videos
-    #     - file: class/week07/lecture
-    #     - file: class/week07/test
-    #     - file: class/week07/lab
-    #     - file: class/week07/learninglog
+    - file: class/week07/week7_summary
+      title: Week 7 - Lists and Arrays
+      sections:
+        - file: class/week07/readings
+        - file: class/week07/videos
+        - file: class/week07/lecture
+        - file: class/week07/test
+        - file: class/week07/lab
+        - file: class/week07/learninglog
     # - file: class/week08/week08_summary
     #   title: Week 8 - Object Oriented Programming I 
     #   sections:
