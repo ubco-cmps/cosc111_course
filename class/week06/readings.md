@@ -1,34 +1,8 @@
 # Readings
 
-This week the readings assignments are listed below:
+These readings are from our course textbook "Java Programming" created and shared by the [Agile Education Research group of the University of Helsinki](https://www.helsinki.fi/en/researchgroups/data-driven-education).
+The course material is licensed under a Creative Commons [BY-NC-SA 4.0-license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fi).
 
-<label><input type="checkbox" id="week05_reading1" class="box"> **Readings 5.1** </input></label> 
+<label><input type="checkbox" id="week06_reading1" class="box"> **[1.6 Conditionals](https://java-programming.mooc.fi/part-1/6-conditional-statements)** </input></label>
 
-<label><input type="checkbox" id="week05_reading2" class="box"> **Readings 5.2** </input></label> 
-
-<label><input type="checkbox" id="week05_reading3" class="box"> **Readings 5.3** </input></label> 
-
-<label><input type="checkbox" id="week05_reading4" class="box"> **Readings 5.4** </input></label> 
-
-<label><input type="checkbox" id="week05_reading5" class="box"> **Readings 5.5** </input></label> 
-
-<label><input type="checkbox" id="week05_reading6" class="box"> **Readings 5.6** </input></label> 
-
-<label><input type="checkbox" id="week05_reading7" class="box"> **Readings 5.7** </input></label> 
-
-Click the button below to be taken to the Pearson textbook to access the eText
-
-
-````{panels}
-
-If you have access to the eText, you can go to the eText from here
-
-++++ 
-
-```{link-button} https://portal.mypearson.com
-:text: Pearson eText
-:type: url
-:classes: btn-outline-warning btn-block stretched-link text-dark
-```
-````
-
+<label><input type="checkbox" id="week06_reading2" class="box"> **[1.7 Programming in our Society](https://java-programming.mooc.fi/part-1/7-programming-in-our-society)** </input></label>

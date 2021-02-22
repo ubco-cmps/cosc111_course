@@ -58,15 +58,15 @@
   chapters:
     - file: class/week05/week05_summary
       title: Week 5 - Reading Week
-    # - file: class/week06/week05_summary
-    #   title: Week 6 - Loops
-    #   sections:
-    #     - file: class/week06/readings
-    #     - file: class/week06/videos
-    #     - file: class/week06/lecture
-    #     - file: class/week06/test
-    #     - file: class/week06/lab
-    #     - file: class/week06/learninglog
+    - file: class/week06/week06_summary
+      title: Week 6 - Loops
+      sections:
+        - file: class/week06/readings
+        - file: class/week06/videos
+        - file: class/week06/lecture
+        - file: class/week06/test
+        - file: class/week06/lab
+        - file: class/week06/learninglog
     # - file: class/week07/week7_summary
     #   title: Week 7 - Lists and Arrays
     #   sections:
