@@ -5,22 +5,22 @@ Course Schedule
 This is the tentative plan for {{ COURSE_CODE }} this term.
 Things may change depending on many factors so this is subject to change.
 
-| Wk | Date   | Topic                          | Lecture Activity | Lab    | Logs  | Test / Bonus Test        |
-|----|--------|--------------------------------|------------------|--------|-------|--------------------------|
-| 0  | Jan 11 | About this course              | --               | --     | --    | --                       |
-| 1  | Jan 18 | Git, GitHub, and the Terminal  | LA1              | Lab 1  | LL 1  | Test 0 (course policies) |
-| 2  | Jan 25 | Java                           | LA2              | Lab 2  | LL 2  | Test 1 (weeks 0-2)       |
-| 3  | Feb 1  | Variables and Math             | LA3              | Lab 3  | LL 3  | Bonus Test 1             |
-| 4  | Feb 8  | Conditionals                   | LA4              | Lab 4  | LL 4  | Test 2 (weeks 3-4)       |
-| 5  | Feb 15 | Reading Week (no new material) | --               | --     | --    | --                       |
-| 6  | Feb 22 | Mid course review              | LA6              | Lab 6  | LL 6  | Bonus Test 2             |
-| 7  | Mar 1  | Loops                          | LA7              | Lab 7  | LL 7  | --                       |
-| 8  | Mar 8  | Lists and Arrays               | LA8              | Lab 8  | LL 8  | Test 3 (weeks 7-8)       |
-| 9  | Mar 15 | Object Oriented Programming I  | LA9              | Lab 9  | LL 9  | Bonus Test 3             |
-| 10 | Mar 22 | Object Oriented Programming II | LA10             | Lab 10 | LL 10 | Test 4 (weeks 9-10)      |
-| 11 | Mar 29 | Methods and Constructors       | LA11             | Lab 11 | LL 11 | Bonus Test 4             |
-| 12 | Apr 5  | Objects and Variables          | --               | Lab 12 | LL 12 | Test 5 (weeks 11-12)     |
-| 13 | Apr 12 | Recap and Review               | --               | --     | --    | Bonus Test 5             |
+| Wk | Date   | Topic                                | Lecture Activity | Lab    | Logs  | Test / Bonus Test        |
+|----|--------|--------------------------------------|------------------|--------|-------|--------------------------|
+| 0  | Jan 11 | About this course                    | --               | --     | --    | --                       |
+| 1  | Jan 18 | Git, GitHub, and the Terminal        | LA1              | Lab 1  | LL 1  | Test 0 (course policies) |
+| 2  | Jan 25 | Java                                 | LA2              | Lab 2  | LL 2  | Test 1 (weeks 0-2)       |
+| 3  | Feb 1  | Variables and Math                   | LA3              | Lab 3  | LL 3  | Bonus Test 1             |
+| 4  | Feb 8  | Conditionals                         | LA4              | Lab 4  | LL 4  | Test 2 (weeks 3-4)       |
+| 5  | Feb 15 | Reading Week (no new material)       | --               | --     | --    | --                       |
+| 6  | Feb 22 | Mid course review and Intro to Loops | LA6              | Lab 6  | LL 6  | Bonus Test 2             |
+| 7  | Mar 1  | Loops                                | LA7              | Lab 7  | LL 7  | --                       |
+| 8  | Mar 8  | Lists and Arrays                     | LA8              | Lab 8  | LL 8  | Test 3 (weeks 7-8)       |
+| 9  | Mar 15 | Object Oriented Programming I        | LA9              | Lab 9  | LL 9  | Bonus Test 3             |
+| 10 | Mar 22 | Object Oriented Programming II       | LA10             | Lab 10 | LL 10 | Test 4 (weeks 9-10)      |
+| 11 | Mar 29 | Methods and Constructors             | LA11             | Lab 11 | LL 11 | Bonus Test 4             |
+| 12 | Apr 5  | Objects and Variables                | --               | Lab 12 | LL 12 | Test 5 (weeks 11-12)     |
+| 13 | Apr 12 | Recap and Review                     | --               | --     | --    | Bonus Test 5             |
 
 <!--
 Part 1 - 1. Getting started with programming

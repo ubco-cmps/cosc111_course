@@ -1,5 +1,5 @@
-(page_topic13)=
-Week 13 Summary
+(page_topic12)=
+Week 12 Summary
 =======================
 
 ## About this page
@@ -10,16 +10,16 @@ Once you finish the task, check off the box so you can keep track of your progre
 
 ## List of things to do this week
 
-<label><input type="checkbox" id="week013_task1" class="box"> [**Watch the lecture videos**](./videos.md)</input></label>
+<label><input type="checkbox" id="week012_task1" class="box"> [**Watch the lecture videos**](./videos.md)</input></label>
 
-<label><input type="checkbox" id="week013_task2" class="box"> [**Skim the assigned readings**](./readings.md)</input></label>
+<label><input type="checkbox" id="week012_task2" class="box"> [**Skim the assigned readings**](./readings.md)</input></label>
 
-<label><input type="checkbox" id="week013_task3" class="box"> [**Attend the Lecture**](./lecture.ipynb) </input></label>
+<label><input type="checkbox" id="week012_task3" class="box"> [**Attend the Lecture**](./lecture.ipynb) </input></label>
 
-<label><input type="checkbox" id="week013_task4" class="box"> [**Complete the Lecture Activity**](../activities) </input></label>
+<label><input type="checkbox" id="week012_task4" class="box"> [**Complete the Lecture Activity**](../activities) </input></label>
 
-<label><input type="checkbox" id="week013_task5" class="box"> [**Attend and Complete the lab**](./lab.md) </input></label>
+<label><input type="checkbox" id="week012_task5" class="box"> [**Attend and Complete the lab**](./lab.md) </input></label>
 
-<label><input type="checkbox" id="week013_task13" class="box"> [**Write Bonus Test 5 (130 mins)**](./test.md) </input></label>
+<label><input type="checkbox" id="week012_task12" class="box"> [**Write Bonus Test 2 (120 mins)**](./test.md) </input></label>
 
-<label><input type="checkbox" id="week013_task7" class="box"> [**Complete your Learning Log assignment**](./learninglog) </input></label>
+<label><input type="checkbox" id="week012_task7" class="box"> [**Complete your Learning Log assignment**](./learninglog) </input></label>

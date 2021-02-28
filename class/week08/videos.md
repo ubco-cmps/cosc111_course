@@ -8,122 +8,99 @@ In the sidebar on the right, you can use the checklists to keep track of what's 
 ```{admonition} Checklist of items
 :class: tip
 
-<input type="checkbox" id="week02_video1" class="box"><label>2.1: Introduction</input></label>
+<input type="checkbox" id="week07_video1" class="box"><label>7.1: What are Errors?</input></label>
 
-<input type="checkbox" id="week02_video2" class="box"><label>2.2: What is Programming?</input></label>
+<input type="checkbox" id="week07_video2" class="box"><label>7.2: How do we Debug Code?</input></label>
 
-<input type="checkbox" id="week02_video3" class="box"><label>2.3: How do we write code?</input></label>
+<input type="checkbox" id="week07_video2" class="box"><label>7.3: What are Arrays?</input></label>
 
-<input type="checkbox" id="week02_video4" class="box"><label>2.4: How do we get information from computers?</input></label>
+<input type="checkbox" id="week07_video2" class="box"><label>7.4: Arrays in Java</input></label>
 
-<input type="checkbox" id="week02_video5" class="box"><label>2.5: What can computers do?</input></label>
+<input type="checkbox" id="week07_video2" class="box"><label>7.5: Copying Arrays</input></label>
 
-<input type="checkbox" id="week02_video6" class="box"><label>2.6: Writing Java with an IDE</input></label>
+<input type="checkbox" id="week07_video2" class="box"><label>7.6: Variable number of Arguments</input></label>
 
-<input type="checkbox" id="week02_video7" class="box"><label>2.6: Bits, Bytes, and the Java Virtual Machine</input></label>
+<input type="checkbox" id="week07_video2" class="box"><label>7.7: Linear Search</input></label>
 
-<input type="checkbox" id="week02_video8" class="box"><label>2.7: A First Java Program</input></label>
-
-<input type="checkbox" id="week02_video9" class="box"><label>2.9: Java Programming Style</input></label>
-
-<input type="checkbox" id="week02_video10" class="box"><label>2.10: `print` vs. `println`</input></label>
+<input type="checkbox" id="week07_video2" class="box"><label>7.8: Binary Search</input></label>
 
 ```
 ````
 
 ## Required Videos
 
-```{dropdown} 1.1: Introduction
+```{dropdown} 7.1: What are Errors?
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
     :open:
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=Xk-0f5GKc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=7JgTyhGt5" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 1.2: What is Programming?
+```{dropdown} 7.2: How do we Debug Code?
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=Q18ME9ft9" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=71Y7lnGt9" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 1.3: How do we write code?
+```{dropdown} 7.3: What are Arrays?
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=QkUa45MF5" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=7JkUbhzKc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 1.4: How do we get information from computers?
+```{dropdown} 7.4: Arrays in Java
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=71LDBqfY5" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=7kCTbnzFq" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 1.5: What can computers do?
+```{dropdown} 7.5: Copying Arrays
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=Q14fU5zY5" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=X15DMnMK9" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 1.6:  Writing Java with an IDE
+```{dropdown} 7.6: Variable number of Arguments
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=XyZV7u9fFq" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=717Tz2GFc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 1.7: Bits, Bytes, and the Java Virtual Machine
+```{dropdown} 7.7: Linear Search
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
     
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=mJCc_czF9" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=QyrrQ3zFq" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
 
-```{dropdown} 1.7: A First Java Program
+```{dropdown} 7.8: Binary Search
     :container: + shadow
     :title: bg-primary text-white font-weight-bold
 
 <div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=QJZZFqGKc" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=XyU5XnGK9" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 ```
-
-```{dropdown} 1.8: Java Programming Style
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=XkmFFcGK9" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
-
-```{dropdown} 1.10: print vs. println
-    :container: + shadow
-    :title: bg-primary text-white font-weight-bold
-
-<div class="container youtube">
-<iframe class="responsive-iframe" src="https://www.vibby.com/embed/vib?vib=XkG15qfFq" frameborder="0" allow="accelerometer; autoplay="0"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
-
 ## Optional Videos
 
 None this week.

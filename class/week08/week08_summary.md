@@ -1,5 +1,5 @@
-(page_topic8)=
-Week 8 Summary
+(page_topic7)=
+Week 7 Summary
 =======================
 
 ## About this page
@@ -10,16 +10,16 @@ Once you finish the task, check off the box so you can keep track of your progre
 
 ## List of things to do this week
 
-<label><input type="checkbox" id="week08_task1" class="box"> [**Watch the lecture videos**](./videos.md)</input></label>
+<label><input type="checkbox" id="week07_task1" class="box"> [**Watch the lecture videos**](./videos.md)</input></label>
 
-<label><input type="checkbox" id="week08_task2" class="box"> [**Skim the assigned readings**](./readings.md)</input></label>
+<label><input type="checkbox" id="week07_task2" class="box"> [**Skim the assigned readings**](./readings.md)</input></label>
 
-<label><input type="checkbox" id="week08_task3" class="box"> [**Attend the Lecture**](./lecture.ipynb) </input></label>
+<label><input type="checkbox" id="week07_task3" class="box"> [**Attend the Lecture**](./lecture.ipynb) </input></label>
 
-<label><input type="checkbox" id="week08_task4" class="box"> [**Complete the Lecture Activity**](../activities) </input></label>
+<label><input type="checkbox" id="week07_task4" class="box"> [**Complete the Lecture Activity**](../activities) </input></label>
 
-<label><input type="checkbox" id="week08_task5" class="box"> [**Attend and Complete the lab**](./lab.md) </input></label>
+<label><input type="checkbox" id="week07_task5" class="box"> [**Attend and Complete the lab**](./lab.md) </input></label>
 
-<label><input type="checkbox" id="week08_task8" class="box"> [**Write Test 3 (80 mins)**](./test.md) </input></label>
+<label><input type="checkbox" id="week07_task7" class="box"> [**Write Bonus Test 2 (70 mins)**](./test.md) </input></label>
 
-<label><input type="checkbox" id="week08_task7" class="box"> [**Complete your Learning Log assignment**](./learninglog) </input></label>
+<label><input type="checkbox" id="week07_task7" class="box"> [**Complete your Learning Log assignment**](./learninglog) </input></label>

@@ -2,17 +2,15 @@
 
 This week the readings assignments are listed below:
 
-<label><input type="checkbox" id="week10_reading1" class="box"> **Readings 9.1: ** </input></label> 
+<label><input type="checkbox" id="week09_reading1" class="box"> **Readings 8.1: ** </input></label> 
 
-<label><input type="checkbox" id="week10_reading2" class="box"> **Readings 9.2: ** </input></label> 
+<label><input type="checkbox" id="week09_reading2" class="box"> **Readings 8.2: ** </input></label> 
 
-<label><input type="checkbox" id="week10_reading3" class="box"> **Readings 9.3: ** </input></label> 
+<label><input type="checkbox" id="week09_reading3" class="box"> **Readings 8.3: ** </input></label> 
 
-<label><input type="checkbox" id="week10_reading4" class="box"> **Readings 9.4: ** </input></label> 
+<label><input type="checkbox" id="week09_reading4" class="box"> **Readings 8.4: ** </input></label> 
 
-<label><input type="checkbox" id="week10_reading5" class="box"> **Readings 9.5: ** </input></label> 
-
-<label><input type="checkbox" id="week10_reading6" class="box"> **Readings 9.6: ** </input></label> 
+<label><input type="checkbox" id="week09_reading5" class="box"> **Readings 8.5: ** </input></label> 
 
 Click the button below to be taken to the Pearson textbook to access the eText
 
