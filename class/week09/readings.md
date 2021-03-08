@@ -1,30 +1,23 @@
 # Readings
 
-This week the readings assignments are listed below:
+These readings are from our course textbook "Java Programming" created and shared by the [Agile Education Research group of the University of Helsinki](https://www.helsinki.fi/en/researchgroups/data-driven-education).
+The course material is licensed under a Creative Commons [BY-NC-SA 4.0-license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fi).
 
-<label><input type="checkbox" id="week08_reading1" class="box"> **Readings 7.1:** </input></label> 
+<label><input type="checkbox" id="week09_reading1" class="box"> **[4.1 Introduction to object-oriented programming](https://java-programming.mooc.fi/part-4/1-introduction-to-object-oriented-programming)** </input></label>
 
-<label><input type="checkbox" id="week08_reading2" class="box"> **Readings 7.2:** </input></label> 
+<label><input type="checkbox" id="week09_reading2" class="box"> **[4.2 Objects in a list](https://java-programming.mooc.fi/part-4/2-objects-in-a-list)** </input></label>
 
-<label><input type="checkbox" id="week08_reading3" class="box"> **Readings 7.3:** </input></label> 
+<label><input type="checkbox" id="week09_reading3" class="box"> **[5.1 Learning Object Oriented Programming](https://java-programming.mooc.fi/part-5/1-learning-object-oriented-programming)** </input></label>
 
-<label><input type="checkbox" id="week08_reading4" class="box"> **Readings 7.4:** </input></label> 
+<label><input type="checkbox" id="week09_reading4" class="box"> **[5.2 Method and Constructor Overloading](https://java-programming.mooc.fi/part-5/2-method-and-constructor-overloading)** </input></label>
 
-<label><input type="checkbox" id="week08_reading5" class="box"> **Readings 7.5:** </input></label> 
+<label><input type="checkbox" id="week09_reading5" class="box"> **[5.3 Using primitive and reference variables](https://java-programming.mooc.fi/part-5/3-primitive-and-reference-variables)** </input></label>
 
-Click the button below to be taken to the Pearson textbook to access the eText
+<label><input type="checkbox" id="week09_reading6" class="box"> **[5.4 Objects and references](https://java-programming.mooc.fi/part-5/4-objects-and-references)** </input></label>
+
+<label><input type="checkbox" id="week09_reading7" class="box"> **[5.5 Objects within objects](https://java-programming.mooc.fi/part-6/1-objects-within-objects)** </input></label>
+
+<label><input type="checkbox" id="week09_reading8" class="box"> **[5.5 Separating user interface from program logic](https://java-programming.mooc.fi/part-6/2-separating-user-interface-from-program-logic)** </input></label>
 
 
-````{panels}
-
-If you have access to the eText, you can go to the eText from here
-
-++++ 
-
-```{link-button} https://portal.mypearson.com
-:text: Pearson eText
-:type: url
-:classes: btn-outline-warning btn-block stretched-link text-dark
-```
-````
 
