@@ -85,6 +85,8 @@
         - file: class/week08/test
         - file: class/week08/lab
         - file: class/week08/learninglog
+- part: Part 3 - Putting it all together
+  chapters:
     - file: class/week09/week09_summary
       title: Week 9 - Object Oriented Programming I
       sections:
@@ -103,32 +105,32 @@
         - file: class/week10/test
         - file: class/week10/lab
         - file: class/week10/learninglog
-    # - file: class/week11/week11_summary
-    #   title: Week 11 - Debugging and Eclipse
-    #   sections:
-    #     - file: class/week11/readings
-    #     - file: class/week11/videos
-    #     - file: class/week11/lecture
-    #     - file: class/week11/test
-    #     - file: class/week11/lab
-    #     - file: class/week11/learninglog
-    # - file: class/week12/week12_summary
-    #   title: Week 12 - Inheritance
-    #   sections:
-    #     - file: class/week12/readings
-    #     - file: class/week12/videos
-    #     - file: class/week12/lecture
-    #     - file: class/week12/test
-    #     - file: class/week12/lab
-    #     - file: class/week12/learninglog
-    #   title: Week 13 - Recap and Review
-    #   sections:
-    #     - file: class/week13/readings
-    #     - file: class/week13/videos
-    #     - file: class/week13/lecture
-    #     - file: class/week13/test
-    #     - file: class/week13/lab
-    #     - file: class/week13/learninglog
+    - file: class/week11/week11_summary
+      title: Week 11 - Debugging and Eclipse
+      sections:
+        - file: class/week11/readings
+        - file: class/week11/videos
+        - file: class/week11/lecture
+        - file: class/week11/test
+        - file: class/week11/lab
+        - file: class/week11/learninglog
+    - file: class/week12/week12_summary
+      title: Week 12 -
+      sections:
+        - file: class/week12/readings
+        - file: class/week12/videos
+        - file: class/week12/lecture
+        - file: class/week12/test
+        - file: class/week12/lab
+        - file: class/week12/learninglog
+      title: Week 13 - Inheritance
+      sections:
+        - file: class/week13/readings
+        - file: class/week13/videos
+        - file: class/week13/lecture
+        - file: class/week13/test
+        - file: class/week13/lab
+        - file: class/week13/learninglog
 
 
 # - part: Final Exam
