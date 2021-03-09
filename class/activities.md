@@ -31,7 +31,3 @@ Once the deadline and the grace period has passed, you will no longer be able to
 ```{tip}
 Remember that once you've accepted the lab, the link to your repository becomes fixed so you can submit it on Canvas at any time. We will mark the last commit before the deadline (including grace period).
 ```
-
-
-
-
