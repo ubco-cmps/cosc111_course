@@ -1,6 +1,4 @@
-# Lab 7
-
-Title: Relational and Logical Operators; Selection Using If and Switch 
+# Lab 8
 
 ## Expectations
 
@@ -11,71 +9,85 @@ In case you forget to push your final commits before the deadline, at least you 
 This means that you should commit and push your changes to the repository at least **FIVE** times as you work this lab (more is recommended).
 Repositories that have very few commits will be flagged for careful scrutiny and review, and you will **definitely** lose marks for this! 
 
-## Q1: [7 marks] Vowel Checker
+## Q1: [7 marks] Even and Odd Numbers
 
-Write a Java program that takes a letter as input, and then checks whether the letter is a vowel (i.e., one of a, e, i, o, u) or a consonant. If the letter is not a valid alphabet character, print an error message stating so. 
+Write a program that allows a user to continuously enter integers until the user inputs 0 (zero).
+The program then prints the total number of positive, negative, even and odd integers that have been entered.
+Your program should also print the sum and average of the input values (not counting zeros).
+The average should be rounded to 2 decimal places.
 
-![](./lab7_q1.JPG)
+You should deal with inputs that are not integers in a sensible way.
 
-## Q2: [7 marks] License Plate Checker
+### Sample runs: 
 
-Assume vehicle plate numbers use the following standard: 
+```
+Enter the first integer (0 to terminate): 0
+no numbers are entered except 0
+```
+```
+Enter the first integer (0 to terminate): 3
+Enter the next integer (0 to terminate): 1
+Enter the next integer (0 to terminate): 6
+Enter the next integer (0 to terminate): 0
+The number of positives is 3
+The number of negatives is 0
+The number of evens is 1
+The number of odds is 2
+The total is 6
+The average is 3.33
+```
 
-XB-23 (any two letters followed by any two digits).
+## Q2: [7 marks] Finding Perfect Numbers
 
-Write a Java program that reads a plate number provided by the user, and then validates the plate number by ensuring it: 
+If a number is equal to the sum of all of its positive divisors excluding itself, then it is called a perfect number.
+A divisor is a number by which another number is to be divided.
 
-- Has exactly five characters
-- Starts with two uppercase letters, followed by a dash, and finally two digits.
+For example, 6 = 3+2+1 and hence, 6 is the first perfect number. 
+28 is the next perfect number as 28 = 14+7+4+2+1. 
+There are 4 perfect numbers between 1 and 10,000. Write a program to find those 4 numbers.
 
-Finally, print a message stating whether the plate number is valid or not.
+For now, do not worry about being efficient with your solution.
 
-![](./lab7_q2.JPG)
+## Q3: [8 marks] XOR Operator
 
-## Q3: [8 marks] Better Perimeter Checker
+Write a program to find all the numbers between 100 and 200 that are divisible by either 5 or 6 but not both (this is called XOR relationship).
+Your program must display 10 numbers per line with exactly one space between each 2 numbers.
 
-Write a Java program that validates the perimeter of a triangle. 
+Hints:
 
-The program should receive (from the user) the length of each of the three sides of a triangle as a double value. 
+* Use the XOR operator. 
+* To display 10 numbers per line, you need to use a counter that is incremented whenever a number is displayed. A new line is taken whenever the counter is equal to 10. 
 
-Then, the values should be validated using the following criterion: 
+### Sample run:
+```
+100 102 105 108 110 114 115 125 126 130
+132 135 138 140 144 145 155 156 160 162
+165 168 170 174 175 185 186 190 192 195
+198 200
+```
 
-- The length of all sides have a positive value 
-- The sum of any two (out of three) sides should be greater than the remaining side.
+## Q4 [8 marks] Highest scores
 
-![](./lab7_q3.JPG)
+Write a program that first asks the user to input a number of students and then asks for each student’s name and score.
+The program should then display the names of the highest scorer and the second-highest scorer.
+The validity of user inputs do not need to be checked (in other words, ;.][=-]).
 
-## Q4: [8 marks]
+### Sample run:
 
-Write a Java program that plays the popular Rock-Paper-Scissors game against the computer. 
-
-The rules of the game are:
-
-- Scissor can cut paper, 
-- Rock can knock scissors, 
-- Paper can wrap a rock 
-
-The program should randomly generate a number 0, 1, or 2 representing rock, paper, and scissors. 
-
-The program prompts the user to enter a number 0, 1, or 2 and displays a message indicating whether the user or the computer wins, loses, or forces a tie.
-
-![](./lab7_q4.JPG)
-
-## Q5: [10 marks]
-
-Write a Java program that reads a user’s salary (double) and marital status (single character: S for single or M for married) then displays the taxes according to the rules in the table below. 
-
-For example, a married person whose salary is \$40,000 should pay \$12,000 in taxes (i.e. 30% of \$40,000). 
-
-Display an error message if the user enters an input that doesn’t start with M or S. When reading the marital status, extract the first character from the user’s input. 
-
-For example, all of these inputs count as married: "M", "m", "married", "Married", "M_any_characters   "; 
-
-For example, all these inputs count as single: "S", "s", "single", "Single", "    S_any_characters   ".
-
-![](./lab7_q5_1.JPG)
-
-![](./lab7_q5_2.JPG)
+```
+Enter the number of students: 4
+Enter a student name: John
+Enter a student score: 3.5
+Enter a student name: Mike
+Enter a student score: 2.5
+Enter a student name: Lili
+Enter a student score: 4
+Enter a student name: Yasmine
+Enter a student score: 3
+Top two students:
+Lili's score is 4.0
+John's score is 3.5
+```
 
 ## Grading area
 
@@ -90,7 +102,5 @@ You do not have to do anything in this section.
 [Q3 Java file](./Q3.java)
 
 [Q4 Java file](./Q4.java)
-
-[Q5 Java file](./Q5.java)
 
 Remember to commit all your changes and to submit the link to this repository on Canvas.
