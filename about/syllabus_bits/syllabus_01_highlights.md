@@ -15,6 +15,7 @@ The [UBCO calendar description](http://www.calendar.ubc.ca/okanagan/courses.cfm?
 ```{warning}
 If there is a lab and/or tutorial listed on the SSC for this course, You **must** register for all course elements without conflicts, otherwise the department will remove you from the course! There are usually lab or tutorial exemptions for some students (i.e. those repeating the course) and instructions for that will be in this syllabus.
 ```
+<div class="page_break"> </div>
 
 ### Important Links
 
@@ -48,6 +49,7 @@ If there is a lab and/or tutorial listed on the SSC for this course, You **must*
 | Ryan                                      |                  | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | [Thursday 12-1 PM](https://ca.bbcollab.com/guest/286c1e052d7649d4914d5488eaa200ab)       |
 | Quinn                                     |                  | Contact via {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }} | [Friday 11 AM -12 PM](https://ca.bbcollab.com/guest/286c1e052d7649d4914d5488eaa200ab)    |
 
+<div class="page_break"> </div>
 
 ### A message from your instructor
 

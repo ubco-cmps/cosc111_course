@@ -113,3 +113,5 @@ Don't want to walk alone at night?  Not too sure how to get somewhere on campus?
 Call Safewalk at 250.807.8076.
 
 For more information, [visit our website](https://security.ok.ubc.ca/safewalk/) or download the UBC SAFE - Okanagan app.
+
+<div class="page_break"> </div>

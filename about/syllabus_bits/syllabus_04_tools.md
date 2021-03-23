@@ -19,6 +19,7 @@ New tools may be added to the course as the need arises, and I will update this 
 ```{warning}
 Even though the tools above are required for this course, if you have a moral or legal objection to my use of these tools, please do reach out to me and we can likely find an acceptable accommodation.
 ```
+<div class="page_break"> </div>
 
 ### Sign up for a (free) Ed Discussion account [Required]
 
@@ -30,7 +31,7 @@ For this course, you will need to create an account on {{ FORUM_LINK.replace('JO
 
 ```{figure} ../images/EdDiscussion.png
 ---
-width: 750px
+width: 350px
 name: EdDiscussion
 ---
 Sign up for an Ed Discussion account for Q&A in this course.
@@ -41,6 +42,8 @@ The Ed Discussion tool is stored on servers outside Canada. When you access this
 ```
 
 Please do NOT email questions to the instructor and TAs unless it is a legitimate emergency (or if you cannot access {{ FORUM_LINK.replace('JOIN_LINK', ED_ID) }}).
+
+<div class="page_break"> </div>
 
 ### Sign up for a (free) GitHub account [Required]
 
@@ -96,3 +99,5 @@ In this course, I intend to use this information to:
 Unfortunately, at the moment it is not possible to opt-out of the data collection process, but if you like, you may opt-out of the process where *I use the data to give you personalized feedback*. 
 To opt-out, please {{ ANALYTICS_OPTOUT }} at any point in the course. 
 You may opt-out with my full support, I respect your decision and applaud you for your netizenship!
+
+<div class="page_break"> </div>

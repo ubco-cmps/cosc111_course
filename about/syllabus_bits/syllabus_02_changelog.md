@@ -32,3 +32,5 @@ Any major changes to the syllabus (this page) will be documented here, as well a
 | January 14, 2021 | Added Course schedule and clarified that 10/12 learning logs will be marked. | N/A       |
 | January 14, 2021 | Clarified first deadlines of the course                                      | N/A       |
 | February 20, 2021 | Moved the labs 1 week later so you do the labs the week after you watch videos. | Adjusted course schedule to reflect student feedback |
+
+<div class="page_break"> </div>

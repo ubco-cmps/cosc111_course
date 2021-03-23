@@ -6,8 +6,10 @@
 
 This is the official syllabus and course outline for {{ COURSE_CODE }}.
 
+<!--
 ```{warning} Please note that this syllabus is currently under active development, there may be typos or missing sections; treat this as a draft until the course starts!
 ```
+-->
 
 ```{include} syllabus_bits/syllabus_01_highlights.md
 ```
