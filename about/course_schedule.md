@@ -19,7 +19,7 @@ Things may change depending on many factors so this is subject to change.
 | 9  | Mar 15 | Object Oriented Programming I        | LA9              | Lab 9  | LL 9  | Bonus Test 3             |
 | 10 | Mar 22 | Object Oriented Programming II       | LA10             | Lab 10 | LL 10 | Test 4 (weeks 9-10)      |
 | 11 | Mar 29 | Debugging and Eclipse                | LA11             | Lab 11 | LL 11 | Bonus Test 4             |
-| 12 | Apr 5  | Class Cancelled (Easter monday)      | --               | Lab 12 | LL 12 | Test 5 (weeks 0-12)     |
+| 12 | Apr 5  | Class Cancelled (Easter Monday)      | --               | Lab 12 | LL 12 | Test 5 (weeks 0-12)     |
 | 13 | Apr 12 | Inheritance (Optional)               | --               | --     | --    | Bonus Test 5             |
 
 <!--
