@@ -26,7 +26,6 @@ Once the deadline and the grace period has passed, you will no longer be able to
 | [Lab 9](class/week09/lab.md)  | Wednesday Mar 24 at 18:00 PST | [Accept Lab](https://classroom.github.com/a/Zk1PI5tl) |
 | [Lab 10](class/week10/lab.md) | Wednesday Mar 31 at 18:00 PST | [Accept Lab](https://classroom.github.com/a/4EiCVdQf) |
 | [Lab 11](class/week11/lab.md) | Wednesday Apr 7 at 18:00 PST | [Accept Lab](https://classroom.github.com/a/wkO_72Yr) |
-| [Lab 12](class/week12/lab.md) | Wednesday Apr 14 at 18:00 PST | [Accept Lab](https://classroom.github.com/a/HEvdQLQd) |
 
 ```{tip}
 Remember that once you've accepted the lab, the link to your repository becomes fixed so you can submit it on Canvas at any time. We will mark the last commit before the deadline (including grace period).
