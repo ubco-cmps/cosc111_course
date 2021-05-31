@@ -1,7 +1,7 @@
 # JupyterBook Course Template
 
 This is a template repository that makes it drop-dead simple for anyone to create a JupyterBook course website and deploy it using GH Pages.
-No configuration is necessary, there are just three steps.
+No configuration is necessary, there are just three steps...
 
 ## Course Website
 
